@@ -1,4 +1,12 @@
 # Jobyaari — Blog Management System
+## Live Demo
+
+Frontend: https://jobyaari.rf.gd
+
+Admin Panel: https://jobyaari.rf.gd/admin/login.php
+
+Username: admin
+Password: admin123
 
 A fully functional, responsive Blog Management System built with **Core PHP**, **MySQL**, **Bootstrap 5**, **jQuery**, and **AJAX**. Built for government job updates — Admit Cards, Results, Latest Jobs, and Answer Keys.
 
