@@ -1,0 +1,17 @@
+# Sensitive config — rename to db.example.php before committing
+config/db.php
+
+# Uploaded images
+uploads/*
+!uploads/.htaccess
+
+# One-time fix scripts
+fix_admin.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
